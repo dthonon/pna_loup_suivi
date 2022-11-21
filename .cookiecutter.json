@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/daniel/Code",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Daniel Thonon",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "d.thonon9@gmail.com",
+  "friendly_name": "Pna_Loup_Suivi",
+  "github_user": "dthonon",
+  "license": "GPL-3.0",
+  "package_name": "pna_loup_suivi",
+  "project_name": "pna_loup_suivi",
+  "version": "0.0.0"
+}
