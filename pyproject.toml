@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pna_loup_suivi"
-version = "0.0.0"
+version = "0.0.1"
 description = "Pna_Loup_Suivi"
 authors = ["Daniel Thonon <d.thonon9@gmail.com>"]
 license = "GPL-3.0"
@@ -20,6 +20,7 @@ Changelog = "https://github.com/dthonon/pna_loup_suivi/releases"
 [tool.poetry.dependencies]
 python = "^3.10"
 click = ">=8.0.1"
+pandas = "^1.5.2"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
