@@ -9,4 +9,5 @@
 /src/*.egg-info/
 __pycache__/
 *.code-workspace
+settings.json
 .~lock.*
