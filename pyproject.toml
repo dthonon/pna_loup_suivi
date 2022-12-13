@@ -10,6 +10,8 @@ repository = "https://github.com/dthonon/pna_loup_suivi"
 documentation = "https://pna_loup_suivi.readthedocs.io"
 classifiers = [
     "Development Status :: 3 - Alpha",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3.10",
 ]
 
 [tool.poetry.urls]
