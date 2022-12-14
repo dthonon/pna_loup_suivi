@@ -17,6 +17,7 @@ logger = logging.getLogger(__name__)
 @click.version_option()
 def main() -> None:
     """Pna_Loup_Suivi."""
+    data_url = "https://raw.githubusercontent.com/dthonon/pna_loup_suivi/main/data/"
 
     # Create $HOME/tmp directory if it does not exist
     (Path.home() / "tmp").mkdir(exist_ok=True)
@@ -43,8 +44,10 @@ def main() -> None:
 
     logger.info(_("Summarize data files"))
 
-    reg = pd.read_csv("data/reg2016.tab", sep="\t")
+    reg = pd.read_csv(data_url + "reg2016.tab", sep="\t")
     print(reg)
+    dept = pd.read_csv(data_url + "depts2016.tab", sep="\t")
+    print(dept)
 
 if __name__ == "__main__":
     main(prog_name="pna_loup_suivi")  # pragma: no cover
