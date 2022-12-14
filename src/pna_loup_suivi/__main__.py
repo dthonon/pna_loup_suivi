@@ -44,10 +44,51 @@ def main() -> None:
 
     logger.info(_("Summarize data files"))
 
-    reg = pd.read_csv(data_url + "reg2016.tab", sep="\t")
+    reg = pd.read_csv(
+        data_url + "reg2016.tab",
+        sep="\t",
+        header=0,
+        names=[
+            "Num_Région",
+            "Chef_lieu",
+            "TNCC",
+            "Région_M",
+            "Région",
+        ],
+        usecols=[
+            "Num_Région",
+            "Région",
+        ],
+    )
     print(reg)
-    dept = pd.read_csv(data_url + "depts2016.tab", sep="\t")
+    dept = pd.read_csv(
+        data_url + "depts2016.tab",
+        sep="\t",
+        header=0,
+        names=[
+            "Num_Région",
+            "Num_dept",
+            "Chef_lieu",
+            "TNCC",
+            "Département_M",
+            "Département",
+        ],
+        usecols=[
+            "Num_Région",
+            "Num_dept",
+            "Département",
+        ],
+    )
     print(dept)
+    dommages = pd.read_csv(data_url + "dommages.csv", sep=";")
+    dommages = pd.merge(dommages, dept, on="Département")
+    dommages = pd.merge(dommages, reg, on="Num_Région")
+    print(dommages)
+    interventions = pd.read_csv(data_url + "protocole_intervention.csv", sep=";")
+    interventions = pd.merge(interventions, dept, on="Département")
+    interventions = pd.merge(interventions, reg, on="Num_Région")
+    print(interventions)
+
 
 if __name__ == "__main__":
     main(prog_name="pna_loup_suivi")  # pragma: no cover
