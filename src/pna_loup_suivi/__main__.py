@@ -45,8 +45,7 @@ def main() -> None:
     logger.info(_("Summarize data files, version %s"), __version__)
 
     dept = pd.read_csv(
-        "data/" + "departements-region.csv",
-        # data_url + "departements-region.csv",
+        data_url + "departements-region.csv",
         sep=",",
         header=0,
         names=[
