@@ -4,7 +4,7 @@ from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 
 import click
-import pandas as pd
+import pandas as pd  # type: ignore
 
 from . import _
 from . import __version__
