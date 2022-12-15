@@ -42,7 +42,7 @@ def main() -> None:
     logger.addHandler(ch)
     logger.setLevel(logging.INFO)
 
-    logger.info(_("Summarize data files"))
+    logger.info(_("Summarize data files, version %s"), __version__)
 
     reg = pd.read_csv(
         data_url + "reg2016.tab",
@@ -60,7 +60,7 @@ def main() -> None:
             "Région",
         ],
     )
-    print(reg)
+    # print(reg)
     dept = pd.read_csv(
         data_url + "depts2016.tab",
         sep="\t",
@@ -79,15 +79,21 @@ def main() -> None:
             "Département",
         ],
     )
-    print(dept)
+    # print(dept.head(30))
+
+    # Summarize dommages
     dommages = pd.read_csv(data_url + "dommages.csv", sep=";")
     dommages = pd.merge(dommages, dept, on="Département")
     dommages = pd.merge(dommages, reg, on="Num_Région")
-    print(dommages)
+    # print(dommages)
+
+    # Summarize interventions
     interventions = pd.read_csv(data_url + "protocole_intervention.csv", sep=";")
+    # print(interventions.set_index("Année").loc[2021].sort_values(by="Département"))
     interventions = pd.merge(interventions, dept, on="Département")
     interventions = pd.merge(interventions, reg, on="Num_Région")
-    print(interventions)
+    interventions_y = interventions.drop("Num_Région", axis="columns").groupby(["Année"])
+    print(interventions_y.sum(numeric_only=True))
 
 
 if __name__ == "__main__":
