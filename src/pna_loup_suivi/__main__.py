@@ -86,13 +86,19 @@ def main() -> None:
     dommages = pd.merge(dommages, dept, on="Département")
     dommages = pd.merge(dommages, reg, on="Num_Région")
     # print(dommages)
+    dommages_y = dommages.drop("Num_Région", axis="columns").groupby(
+        ["Année", "Région"]
+    )
+    print(dommages_y.sum(numeric_only=True))
 
     # Summarize interventions
     interventions = pd.read_csv(data_url + "protocole_intervention.csv", sep=";")
     # print(interventions.set_index("Année").loc[2021].sort_values(by="Département"))
     interventions = pd.merge(interventions, dept, on="Département")
     interventions = pd.merge(interventions, reg, on="Num_Région")
-    interventions_y = interventions.drop("Num_Région", axis="columns").groupby(["Année"])
+    interventions_y = interventions.drop("Num_Région", axis="columns").groupby(
+        ["Année"]
+    )
     print(interventions_y.sum(numeric_only=True))
 
 
