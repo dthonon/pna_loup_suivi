@@ -44,39 +44,15 @@ def main() -> None:
 
     logger.info(_("Summarize data files, version %s"), __version__)
 
-    reg = pd.read_csv(
-        data_url + "reg2016.tab",
-        sep="\t",
-        header=0,
-        names=[
-            "Num_Région",
-            "Chef_lieu",
-            "TNCC",
-            "Région_M",
-            "Région",
-        ],
-        usecols=[
-            "Num_Région",
-            "Région",
-        ],
-    )
-    # print(reg)
     dept = pd.read_csv(
-        data_url + "depts2016.tab",
-        sep="\t",
+        "data/" + "departements-region.csv",
+        # data_url + "departements-region.csv",
+        sep=",",
         header=0,
         names=[
-            "Num_Région",
-            "Num_dept",
-            "Chef_lieu",
-            "TNCC",
-            "Département_M",
+            "Num_Département",
             "Département",
-        ],
-        usecols=[
-            "Num_Région",
-            "Num_dept",
-            "Département",
+            "Région",
         ],
     )
     # print(dept.head(30))
@@ -84,21 +60,15 @@ def main() -> None:
     # Summarize dommages
     dommages = pd.read_csv(data_url + "dommages.csv", sep=";")
     dommages = pd.merge(dommages, dept, on="Département")
-    dommages = pd.merge(dommages, reg, on="Num_Région")
     # print(dommages)
-    dommages_y = dommages.drop("Num_Région", axis="columns").groupby(
-        ["Année", "Région"]
-    )
+    dommages_y = dommages.groupby(["Année", "Région"])
     print(dommages_y.sum(numeric_only=True))
 
     # Summarize interventions
     interventions = pd.read_csv(data_url + "protocole_intervention.csv", sep=";")
     # print(interventions.set_index("Année").loc[2021].sort_values(by="Département"))
     interventions = pd.merge(interventions, dept, on="Département")
-    interventions = pd.merge(interventions, reg, on="Num_Région")
-    interventions_y = interventions.drop("Num_Région", axis="columns").groupby(
-        ["Année"]
-    )
+    interventions_y = interventions.groupby(["Année"])
     print(interventions_y.sum(numeric_only=True))
 
 
