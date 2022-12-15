@@ -8,6 +8,7 @@ import pandas as pd
 
 from . import _
 from . import __version__
+from . import dist_name
 
 
 logger = logging.getLogger(__name__)
@@ -24,7 +25,7 @@ def main() -> None:
 
     # create file handler which logs even debug messages
     fh = TimedRotatingFileHandler(
-        str(Path.home()) + "/tmp/" + __name__ + ".log",
+        Path.home() / "tmp" / (dist_name + ".log"),
         when="midnight",
         interval=1,
         backupCount=100,
