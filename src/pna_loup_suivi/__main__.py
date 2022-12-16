@@ -66,6 +66,7 @@ def main() -> None:
     print(dommages_y.sum(numeric_only=True))
 
     # Summarize interventions
+    # interventions = pd.read_csv("data/" + "protocole_intervention.csv", sep=";")
     interventions = pd.read_csv(data_url + "protocole_intervention.csv", sep=";")
     # print(interventions.set_index("Année").loc[2021].sort_values(by="Département"))
     interventions = pd.merge(interventions, dept, on="Département")
