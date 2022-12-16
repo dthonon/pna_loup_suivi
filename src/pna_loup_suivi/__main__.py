@@ -73,6 +73,11 @@ def main() -> None:
     interventions_y = interventions.groupby(["Année"])
     print(interventions_y.sum(numeric_only=True))
 
+    # Summarize wolf population
+    # interventions = pd.read_csv("data/" + "nbloupsestime.csv", sep=";")
+    population = pd.read_csv(data_url + "nbloupsestime.csv", sep=";")
+    print(population)
+
 
 if __name__ == "__main__":
     main(prog_name="pna_loup_suivi")  # pragma: no cover
