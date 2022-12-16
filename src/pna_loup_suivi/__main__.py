@@ -58,6 +58,7 @@ def main() -> None:
     # print(dept.head(30))
 
     # Summarize dommages
+    # dommages = pd.read_csv("data/" + "dommages.csv", sep=";")
     dommages = pd.read_csv(data_url + "dommages.csv", sep=";")
     dommages = pd.merge(dommages, dept, on="Département")
     # print(dommages)
