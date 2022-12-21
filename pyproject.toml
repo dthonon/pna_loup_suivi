@@ -47,6 +47,7 @@ sphinx-click = ">=3.0.2"
 typeguard = ">=2.13.3"
 xdoctest = {extras = ["colors"], version = ">=0.15.10"}
 myst-parser = {version = ">=0.16.1"}
+jupyter = "^1.0.0"
 
 [tool.poetry.scripts]
 pna_loup_suivi = "pna_loup_suivi.__main__:main"
