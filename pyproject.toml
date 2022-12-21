@@ -21,6 +21,7 @@ Changelog = "https://github.com/dthonon/pna_loup_suivi/releases"
 python = "^3.10"
 click = ">=8.0.1"
 pandas = "^1.5.2"
+seaborn = "^0.12.1"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
