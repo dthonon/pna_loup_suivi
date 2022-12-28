@@ -624,7 +624,7 @@ python-versions = "*"
 
 [[package]]
 name = "ipykernel"
-version = "6.19.4"
+version = "6.20.0"
 description = "IPython Kernel for Jupyter"
 category = "dev"
 optional = false
@@ -646,7 +646,9 @@ traitlets = ">=5.4.0"
 
 [package.extras]
 cov = ["coverage", "curio", "matplotlib", "pytest-cov", "trio"]
-docs = ["myst-parser", "pydata-sphinx-theme", "sphinx", "sphinxcontrib-github-alt"]
+docs = ["myst-parser", "pydata-sphinx-theme", "sphinx", "sphinxcontrib-github-alt", "sphinxcontrib-spelling"]
+pyqt5 = ["pyqt5"]
+pyside6 = ["pyside6"]
 test = ["flaky", "ipyparallel", "pre-commit", "pytest-asyncio", "pytest-cov", "pytest-timeout", "pytest (>=7.0)"]
 
 [[package]]
