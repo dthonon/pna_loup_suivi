@@ -18,7 +18,7 @@ classifiers = [
 Changelog = "https://github.com/dthonon/pna_loup_suivi/releases"
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.11"
+python = ">=3.10,<3.11"
 click = ">=8.0.1"
 pandas = "^1.5.2"
 seaborn = "0.11.2"
