@@ -1457,14 +1457,14 @@ test = ["codecov", "coverage", "ipykernel (>=6.14)", "mypy", "paramiko", "pre-co
 
 [[package]]
 name = "jupyter-console"
-version = "6.6.2"
+version = "6.6.3"
 description = "Jupyter terminal console"
 category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "jupyter_console-6.6.2-py3-none-any.whl", hash = "sha256:0ba2da017be36bfae489f233f031f251da5b88b0ceafabea240b465ee474944a"},
-    {file = "jupyter_console-6.6.2.tar.gz", hash = "sha256:7385dfed8a01fd51e3c98449dae24f38c1ba015d2073835e785671653a0967fc"},
+    {file = "jupyter_console-6.6.3-py3-none-any.whl", hash = "sha256:309d33409fcc92ffdad25f0bcdf9a4a9daa61b6f341177570fdac03de5352485"},
+    {file = "jupyter_console-6.6.3.tar.gz", hash = "sha256:566a4bf31c87adbfadf22cdf846e3069b59a71ed5da71d6ba4d8aaad14a53539"},
 ]
 
 [package.dependencies]
