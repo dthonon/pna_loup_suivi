@@ -17,7 +17,10 @@ security: # configuration for the `safety check` command
     44715: # Vulnerability found in numpy version 1.21.5
       reason: harmless # optional, for internal note purposes to communicate with your team. This reason will be reported in the Safety reports
       expires: "2023-12-31" # datetime string - date this ignore will expire, best practice to use this variable
-    51457: # Vulnerability found in py version 1.11.0
+    61503: # Vulnerability found in fonttools version 4.42.1
+      reason: harmless # optional, for internal note purposes to communicate with your team. This reason will be reported in the Safety reports
+      expires: "2023-12-31" # datetime string - date this ignore will expire, best practice to use this variable
+    61489: # Vulnerability found in pillow version 10.0.0
       reason: harmless # optional, for internal note purposes to communicate with your team. This reason will be reported in the Safety reports
       expires: "2023-12-31" # datetime string - date this ignore will expire, best practice to use this variable
   continue-on-vulnerability-error: False # Suppress non-zero exit codes when vulnerabilities are found. Enable this in pipelines and CI/CD processes if you want to pass builds that have vulnerabilities. We recommend you set this to False.
