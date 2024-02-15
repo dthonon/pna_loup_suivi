@@ -1,7 +1,8 @@
 """Sphinx configuration."""
+
 project = "Pna_Loup_Suivi"
 author = "Daniel Thonon"
-copyright = "2022, Daniel Thonon"
+copyright = "2024, Daniel Thonon"
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.napoleon",

@@ -1,4 +1,5 @@
 """Pna_Loup_Suivi."""
+
 import gettext
 from importlib.metadata import version
 from pathlib import Path
