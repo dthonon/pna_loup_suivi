@@ -2000,9 +2000,24 @@ LES CÔTES-DE-CORPS;1;Beaumont;Bois du Ser;07/09/2023;36;Ovin;4;330;Loup typé;O
 LA SALETTE-FALLAVAUX;1;Beaumont;;23/09/2023;38;Ovin;1;1;Indéterminé;Oui;O;38-2021-05-10-00008
 LA SALETTE-FALLAVAUX;1;Beaumont;;21/10/2023;42;Ovin;1;1000;Loup typé;Oui;N;/
 LA SALETTE-FALLAVAUX;1;Beaumont;;29/10/2023;43;Ovin;2;;Loup typé;Oui;O;38-2023-05-10-00007 & 8
-LA SALETTE-FALLAVAUX;1;Beaumont;Col de l'Homme;30/10/2023;44;Ovin;2;;Loup typé;Oui;N;S
+LA SALETTE-FALLAVAUX;1;Beaumont;Col de l'Homme;30/10/2023;44;Ovin;2;;Loup typé;Oui;N;38-2023-05-10-00007 & 8
 CORPS;1;Beaumont;;29/11/2023;48;Ovin;3;;Loup typé;Oui;N;/
-PONTCHARRA;1;Belledonne Nord;L’abbaye;07/01/2023;1;Ovin;6;50;Loup typé;Oui;N;/
+LAVAL;1;Belledonne Centre;Aiguebelle;01/08/2023;31;Bovin;1;41;Loup typé;Oui;N;
+LE HAUT-BRÉDA;1;Belledonne Centre;Périoule;03/08/2023;31;Ovin;1;1;Loup typé;Oui;O;38-2023-07-05-00002
+THEYS;1;Belledonne Centre;Malatrait;09/08/2023;32;Ovin;1;23;Loup typé;Oui;N;
+SAINTE-AGNÈS;1;Belledonne Centre;Jean Collet;10/08/2023;32;Ovin;1;1;Loup typé;Oui;O;38-2019-06-07-030
+LE HAUT-BRÉDA;1;Belledonne Centre;Lac du Cos;10/08/2023;32;Ovin;1;1;Indéterminé;Oui;O;38-2021-08-31-00009
+LES ADRETS;1;Belledonne Centre;les Oudis;14/08/2023;33;Ovin;1;649;Loup non exclu;Oui;O;38-2023-09-08-00008
+LE HAUT-BRÉDA;1;Belledonne Centre;Alpage des Sept Laux;18/08/2023;33;Ovin;1;1101;Loup typé;Oui;O;38-2021-08-31-00009
+LES ADRETS;1;Belledonne Centre;les Oudis;24/08/2023;34;Ovin;2;2;Loup typé;Oui;O;38-2023-09-08-00008
+SAINTE-AGNÈS;1;Belledonne Centre;Jean Collet;31/08/2023;35;Ovin;2;2;Indéterminé;Oui;O;38-2019-06-07-030
+LES ADRETS;1;Belledonne Centre;les Oudis;31/08/2023;35;Ovin;3;600;Loup non exclu;Oui;O;38-2023-09-08-00008
+LES ADRETS;1;Belledonne Centre;les Oudis;02/09/2023;35;Ovin;5;661;Loup non exclu;Oui;O;38-2023-09-08-00008
+LES ADRETS;1;Belledonne Centre;les Oudis;07/09/2023;36;Ovin;4;580;Loup typé;Oui;O;38-2023-09-08-00008
+LE HAUT-BRÉDA;1;Belledonne Centre;Station du Pleynet;28/09/2023;39;Veau naissant;1;20;Indéterminé;Oui;N;/
+THEYS;1;Belledonne Centre;Les Allemands;06/10/2023;40;Ovin;1;17;Indéterminé;Oui;;
+LAVAL;1;Belledonne Centre;;17/11/2023;46;Bovin;1;;Loup typé;Oui;N;/
+PONTCHARRA;1;Belledonne Nord;le Berruer;07/01/2023;1;Ovin;6;50;Loup typé;Oui;N;/
 CRETS-EN-BELLEDONNE;1;Belledonne Nord;Chapelle Saint-Christophe;22/05/2023;21;Ovin;2;35;Loup typé;Oui;O;38-2020-09-14-006
 PONTCHARRA;1;Belledonne Nord;Berruer;24/05/2023;21;Caprin;3;80;Loup typé;Oui;N;/
 PONTCHARRA;1;Belledonne Nord;L’abbaye;25/05/2023;21;Canin;1;140;Loup typé;Oui;N;/
@@ -2026,11 +2041,30 @@ BRIE-ET-ANGONNES;1;Belledonne Sud;Les Minimes;16/07/2023;28;Ovin;1;60;Loup typé
 BRIE-ET-ANGONNES;1;Belledonne Sud;Les Minimes;17/07/2023;29;Ovin;2;54;Loup typé;Oui;N;/
 REVEL;1;Belledonne Sud;La Pra;23/07/2023;29;Ovin;1;1071;Indéterminé;Oui;O;38-2021-07-06-00009
 REVEL;1;Belledonne Sud;La Pra;25/07/2023;30;Ovin;1;1070;Indéterminé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;La Pra;03/08/2023;31;Ovin;1;1067;Loup non exclu;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Colon;07/08/2023;32;Ovin;3;1450;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Roc de l'Hôpital;13/08/2023;32;Ovin;1;1050;Loup non exclu;Oui;O;38-2021-07-06-00009
+VAULNAVEYS-LE-HAUT;1;Belledonne Sud;Côteaux du Crès;20/08/2023;33;Ovin;8;21;Loup typé;Oui;N;/
+REVEL;1;Belledonne Sud;La Pra;03/09/2023;35;Ovin;2;2;Loup non exclu;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;La Pra;06/09/2023;36;Ovin;1;1;Indéterminé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;La Pra;07/09/2023;36;Ovin;1;1;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Les Septs Laux;03/08/2023;31;Ovin;3;1100;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;La Pra;08/09/2023;36;Ovin;1;2;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Lac Claret;08/09/2023;36;Ovin;2;2;Indéterminé;Oui;O;38-2021-07-06-00009
+JARRIE;1;Belledonne Sud;La Balme;09/09/2023;36;Veau;1;5;Indéterminé;Oui;O;38-2018-10-31-003
+REVEL;1;Belledonne Sud;La Pra;11/09/2023;37;Ovin;1;3;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Le Col de la Pra;16/09/2023;37;Ovin;2;2;Loup typé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Grand Colon;19/09/2023;38;Ovin;2;2;Indéterminé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;Grand Colon;21/09/2023;38;Ovin;1;1;Indéterminé;Oui;O;38-2021-07-06-00009
+REVEL;1;Belledonne Sud;La Pra;29/09/2023;39;Ovin;1;5;Loup typé;Oui;O;38-2021-07-06-00009
+MURIANETTE;1;Belledonne Sud;Les Combes;02/11/2023;44;Veau;1;;Indéterminé;Non - loup exclu;;
 IZEAUX;1;Bièvre;Le Raffour;26/02/2023;8;Veau;1;100;Indéterminé;Oui;O;38-2021-11-24-00011
 VIRIVILLE;1;Bièvre;Chambarans;27/03/2023;13;Veau;1;15;Indéterminé;Non indemnisable;O;38-2023-05-09-00017
 VIRIVILLE;1;Bièvre;Chambarans;04/04/2023;14;Veau;1;50;Loup non exclu;Oui;O;38-2023-05-09-00017
 VIRIVILLE;1;Bièvre;Route des Chambarrans;12/04/2023;15;Veau naissant;1;25;Loup typé;Oui;O;38-2023-05-09-00017
 SARDIEU;2;Bièvre;La Plaine;14/07/2023;28;Ovin;1;33;Loup non exclu;Oui;O;38-2023-06-12-00006
+COLOMBE;2;Bièvre;;01/11/2023;44;Veau;1;;Charognard;Non - loup exclu;N;/
+VIRIVILLE;1;Bièvre;Le Camp;05/11/2023;44;Veau;1;;Charognard;Non - loup exclu;/;/
 CHEVRIERES;1;Chambarans;;05/03/2023;9;Ovin;2;6;Loup non exclu;Oui;;
 BRION;1;Chambarans;Grange Neuve;07/04/2023;14;Ovin;4;100;Loup non exclu;Oui;N;/
 SAINT-ANTOINE-L’ABBAYE;1;Chambarans;Dionay;09/04/2023;14;Ovin;1;13;Loup non exclu;Oui;;
@@ -2039,6 +2073,22 @@ VATILIEU;1;Chambarans;le Mollard;01/07/2023;26;Ovin;1;29;Loup non exclu;Oui;O;38
 VATILIEU;1;Chambarans;le Mollard;12/07/2023;28;Ovin;1;35;Loup non exclu;Oui;O;38-2023-04-25-00008
 VATILIEU;1;Chambarans;le Mollard;14/07/2023;28;Ovin;1;30;Loup non exclu;Oui;O;38-2023-04-25-00008
 ROYBON;1;Chambarans;la Bourgeonnière;19/07/2023;29;Veau;1;83;Loup typé;Oui;O;38-2022-08-17-00005
+VATILIEU;1;Chambarans;Croix du Plâtre;06/08/2023;31;Ovin;1;28;Indéterminé;Non - loup exclu;O;38-2023-04-25-00008
+VATILIEU;1;Chambarans;Croix du Plâtre;07/08/2023;32;Ovin;1;27;Indéterminé;Non - loup exclu;O;38-2023-04-25-00008
+ROYBON;1;Chambarans;Bois du Pilon;08/08/2023;32;Ovin;1;20;Loup typé;Oui;N;
+VATILIEU;1;Chambarans;Combe de la Pigeonnière;19/08/2023;33;Ovin;1;40;Indéterminé;Non indemnisable;O;38-2023-04-25-00008
+VATILIEU;1;Chambarans;le Mollard;30/08/2023;35;Ovin;1;28;Loup typé;Non indemnisable;O;38-2023-04-25-00008
+VATILIEU;1;Chambarans;Les Tapeaux;05/09/2023;36;Ovin;5;40;Loup typé;Non - loup exclu;O;38-2023-04-25-00008
+VATILIEU;1;Chambarans;Croix du Plâtre;19/09/2023;38;Ovin;1;30;Loup typé;Non indemnisable;O;38-2023-04-25-00008
+ROYBON;1;Chambarans;Château Rocher;20/09/2023;38;Caprin;1;12;Loup non exclu;Oui;;
+VATILIEU;1;Chambarans;Croix du Plâtre;21/09/2023;38;Ovin;1;70;Loup non exclu;Non indemnisable;O;38-2023-04-25-00008
+BRION;1;Chambarans;;10/10/2023;41;Ovin;1;25;Loup typé;Oui;N;
+MURINAIS;1;Chambarans;;13/10/2023;41;Veau;1;9;Indéterminé;Oui;;
+VATILIEU;1;Chambarans;;01/11/2023;44;Ovin;1;;Loup typé;Oui;N;
+ROYBON;1;Chambarans;Impasse du Mitifiot;10/11/2023;45;Ovin;4;;Loup typé;Oui;N;/
+SAINT-PAUL-D'IZEAUX;2;Chambarans;Le Get;10/11/2023;45;Veau;1;;Charognard;Non - loup exclu;N;/
+MORETTE;1;Chambarans;Chattain;13/11/2023;46;Ovin;1;;Indéterminé;Non indemnisable;N;/
+MORETTE;1;Chambarans;Chattain;15/11/2023;46;Ovin;2;;Indéterminé;Non indemnisable;N;/
 CHAPAREILLAN;1;Chartreuse;Saint-Marcel d’en Haut;15/04/2023;15;Ovin;11;105;Loup typé;Oui;O;38-2023-04-18-00001
 MIRIBEL-LES-ÉCHELLES;1;Chartreuse;Saint Anthelme;17/04/2023;16;Veau naissant;1;50;Indéterminé;Oui;O;38-2022-08-03-00002
 CHAPAREILLAN;1;Chartreuse;Saint-Marcel d’en Haut;22/04/2023;16;Ovin;3;95;Loup non exclu;Oui;O;38-2023-04-18-00001
@@ -2047,11 +2097,33 @@ SAINT-PIERRE-D’ENTREMONT;1;Chartreuse;Le Village;11/05/2023;19;Ovin;7;40;Loup 
 SAINTE-MARIE-DU-MONT;1;Chartreuse;Le Villard;16/05/2023;20;Ovin;1;88;Loup typé;Oui;N;
 SAINT-PIERRE-D’ENTREMONT;1;Chartreuse;Le Replat;21/05/2023;20;Ovin;2;5;Indéterminé;Oui;N;
 SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Saint-Hugues;21/07/2023;29;Ovin;3;76;Indéterminé;En cours d'instruction;O;38-2022-03-15-00014
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Creux de la Neige;04/08/2023;31;Ovin;15;341;Indéterminé;Oui;N;/
+PLATEAU-DES-PETITES-ROCHES;1;Chartreuse;Le Baure;13/08/2023;32;Bovin;2;9;Indéterminé;Non - loup exclu;;
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Bovinant Le Petit Som;14/08/2023;33;Ovin;23;497;Loup typé;Oui;O;38-2022-04-29-00006
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Col du Coq;31/08/2023;35;Ovin;1;1181;Loup typé;Oui;O;38-2023-02-17-00003
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Col de l'Aliénard;03/09/2023;35;Bovin;1;23;Loup non exclu;Oui;O;38-2022-04-29-00006
+SAINT-CHRISTOPHE-SUR-GUIERS;1;Chartreuse;Les Berlandes;05/09/2023;36;Ovin;1;3;Loup typé;Oui;N;
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Le Grand Som;17/09/2023;37;Ovin;12;450;Loup typé;Oui;O;38-2022-04-29-00006
+SAINT-CHRISTOPHE-SUR-GUIERS;1;Chartreuse;Les Berlandes;17/09/2023;37;Ovin;2;33;Loup typé;Non indemnisable;N;
+SAINT-CHRISTOPHE-SUR-GUIERS;1;Chartreuse;Les Berlandes;18/09/2023;38;Ovin;7;31;Loup typé;Non indemnisable;N;
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Habert de Bovinant;27/09/2023;39;Ovin;1;1;Loup typé;Oui;O;38-2022-04-29-00006
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Charmant Som;05/10/2023;40;Bovin;1;32;Loup non exclu;Oui;;
+SAINT-CHRISTOPHE-SUR-GUIERS;1;Chartreuse;Les Berlandes;17/10/2023;42;Ovin;3;;Loup typé;Non indemnisable;N;
+SAINT-CHRISTOPHE-SUR-GUIERS;1;Chartreuse;Les Berlandes;20/10/2023;42;Ovin;1;;Loup typé;Non indemnisable;N;
+PLATEAU-DES-PETITES-ROCHES;1;Chartreuse;Saint-Hilaire-du-Touvet;20/10/2023;42;Ovin;1;;Indéterminé;Oui;;
+SAINT-PIERRE-D’ENTREMONT;1;Chartreuse;Le Petit Chenevit;27/10/2023;43;Ovin;22;252;Loup typé;Oui;O;38-2023-11-06-00004
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Chenevet;05/11/2023;44;Ovin;2;;Loup typé;Oui;O;38-2023-11-06-00004
+LE SAPPEY-EN-CHARTREUSE;1;Chartreuse;;14/11/2023;46;Ovin;1;;Indéterminé;Non indemnisable;N;/
 CHALON;2;Collines Viennoises;;16/04/2023;17;Veau;1;39;Loup non exclu;Oui;N;
 CHALON;2;Collines Viennoises;Ranch le Bazadais;24/04/2023;17;Veau naissant;1;5;Indéterminé;Oui;O;38-2021-11-24-00012
 SAINT-JEAN-DE-VAULX;1;Connex;les Pras;02/04/2023;22;Ovin;6;580;Loup typé;Oui;O;"38-2022-05-12-00007; 38-2023-07-07-00002"
 SAINT-JEAN-DE-VAULX;1;Connex;les Pras;11/07/2023;28;Ovin;1;500;Indéterminé;Oui;O;"38-2022-05-12-00007; 38-2023-07-07-00002"
+SAINT-JEAN-DE-VAULX;1;Connex;les Pras;29/07/2023;30;Veau;2;45;Loup typé;Oui;O;38-2023-08-11-00013
+NOTRE-DAME-DE-VAULX;1;Connex;Les Grands Prés;06/08/2023;31;Veau naissant;1;13;Loup typé;Oui;O;38-2023-08-11-00012
 BESSE;1;Emparis;Col Nazié;24/07/2023;30;Ovin;9;2000;Loup typé;Oui;N;/
+BESSE;1;Emparis;Pré Armand;12/08/2023;32;Bovin;2;21;Indéterminé;Oui;O;38-2019-12-10-010
+BESSE;1;Emparis;la Quarlie;12/09/2023;37;Bovin;1;80;Indéterminé;Non - loup exclu;O;38-2022-01-18-00003
+BESSE;1;Emparis;L'Envers de la Pisse;29/09/2023;39;Bovin;3;150;Indéterminé;Oui;O;38-2022-01-18-00000
 LAVALDENS;1;Grand Armet;Les Granges;20/06/2023;25;Ovin;2;1162;Loup non exclu;Oui;O;38-2021-08-26-00001
 LAVALDENS;1;Grand Armet;Les Granges;25/06/2023;25;Canin;1;1161;Loup non exclu;Oui;O;38-2021-08-26-00001
 LAVALDENS;1;Grand Armet;;26/06/2023;26;Ovin;1;913;Indéterminé;Oui;O;"38-2019-07-15-025; TDR 38-2023-06-28-00004"
