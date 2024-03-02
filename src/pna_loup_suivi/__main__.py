@@ -48,7 +48,7 @@ def main() -> None:
 
     dept = pd.read_csv(
         data_url + "departements-region.csv",
-        sep=",",
+        sep=";",
         header=0,
         names=[
             "Num_Département",
