@@ -2096,7 +2096,7 @@ SAINTE-MARIE-DU-MONT;1;Chartreuse;La Vielle Eglise;01/05/2023;18;Ovin;15;87;Loup
 SAINT-PIERRE-D’ENTREMONT;1;Chartreuse;Le Village;11/05/2023;19;Ovin;7;40;Loup typé;Oui;N;
 SAINTE-MARIE-DU-MONT;1;Chartreuse;Le Villard;16/05/2023;20;Ovin;1;88;Loup typé;Oui;N;
 SAINT-PIERRE-D’ENTREMONT;1;Chartreuse;Le Replat;21/05/2023;20;Ovin;2;5;Indéterminé;Oui;N;
-SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Saint-Hugues;21/07/2023;29;Ovin;3;76;Indéterminé;En cours d'instruction;O;38-2022-03-15-00014
+SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Saint-Hugues;21/07/2023;29;Ovin;3;76;Indéterminé;Oui;O;38-2022-03-15-00014
 SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Creux de la Neige;04/08/2023;31;Ovin;15;341;Indéterminé;Oui;N;/
 PLATEAU-DES-PETITES-ROCHES;1;Chartreuse;Le Baure;13/08/2023;32;Bovin;2;9;Indéterminé;Non - loup exclu;;
 SAINT-PIERRE-DE-CHARTREUSE;1;Chartreuse;Bovinant Le Petit Som;14/08/2023;33;Ovin;23;497;Loup typé;Oui;O;38-2022-04-29-00006
@@ -2147,7 +2147,7 @@ CLAVANS-EN-HAUT-OISANS;1;Grandes Rousses;Col de Sarennes;22/06/2023;25;Ovin;1;52
 VAUJANY;1;Grandes Rousses;Col du Glandon;09/07/2023;27;Ovin;1;1607;Loup typé;Oui;O;38-2021-07-06-00008
 CLAVANS-EN-HAUT-OISANS;1;Grandes Rousses;Le Clos Chevalret;24/07/2023;30;Ovin;1;1300;Loup typé;Oui;O;38-2021-06-08-00038
 VAUJANY;1;Grandes Rousses;Col du Couard;26/07/2023;30;Ovin;1;1705;Loup typé;Oui;O;38-2021-07-06-00008
-VAUJANY;1;Grandes Rousses;Cochette;27/07/2023;30;Ovin;1;1;Indéterminé;Loup typé;Oui;O
+VAUJANY;1;Grandes Rousses;Cochette;27/07/2023;30;Ovin;1;1;Loup typé;Oui;O;38-2021-07-06-00008
 HUEZ;1;Grandes Rousses;Alpes d'Huez;04/08/2023;31;Ovin;3;2166;Loup typé;Oui;N;/
 VAUJANY;1;Grandes Rousses;Mont Frais;05/08/2023;31;Ovin;1;75;Loup non exclu;Oui;N;
 HUEZ;1;Grandes Rousses;Mine de l'Herpie;06/08/2023;31;Ovin;3;3;Loup non exclu;;N;/
