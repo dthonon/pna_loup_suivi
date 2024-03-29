@@ -2231,55 +2231,186 @@ LA MOTTE-D'AVEILLANS;1;Senepy;Senepi;01/09/2023;35;Bovin;1;823;Loup typé;Oui;N;
 LA MOTTE-SAINT-MARTIN;1;Senepy;Le Vivier;01/09/2023;35;Veau naissant;1;14;Indéterminé;Non indemnisable;N;
 LA MOTTE-SAINT-MARTIN;1;Senepy;Bavardière;03/09/2023;35;Veau naissant;1;12;Loup typé;Oui;N;38-2019-05-14-014
 LA MOTTE-SAINT-MARTIN;1;Senepy;;20/09/2023;38;Veau naissant;1;10;Indéterminé;Non indemnisable;N;38-2019-05-14-014
-NANTES-EN-RATIER;1;Tabor;Maison Mutte;13/05/2023;19;Bovin;1;20;Indéterminé;Oui;N;
-NANTES-EN-RATIER;1;Tabor;Le Creux;22/05/2023;21;Ovin;1;532;Loup typé;Oui;O;38-2023-06-02-00010
-NANTES-EN-RATIER;1;Tabor;Col Malissol;24/05/2023;21;Ovin;1;321;Loup typé;Oui;O;"38-2022-05-12-00007; 38-2023-07-07-00002"
-LAVALDENS;1;Tabor;Les Bergeries;18/06/2023;24;Ovin;1;1167;Loup typé;Oui;N;38-2023-04-05-00009
-SAINT-HONORÉ;1;Tabor;Clos des Mouches;28/06/2023;26;Ovin;1;1106;Indéterminé;Oui;O;38-2023-07-10-00007
-SAINT-HONORÉ;1;Tabor;Clos des Mouches;04/07/2023;27;Ovin;1;1;Loup typé;Oui;O;38-2023-07-10-00007
-VILLARD-SAINT-CHRISTOPHE;1;Tabor;Le Bois Rond;08/07/2023;27;Bovin;1;90;Indéterminé;Non - loup exclu;N;
-NANTES-EN-RATIER;1;Tabor;Le Village;15/07/2023;28;Ovin;1;343;Loup typé;Oui;O;38-2023-06-02-00010
-NANTES-EN-RATIER;1;Tabor;Le Village;16/07/2023;28;Ovin;3;343;Loup non exclu;Oui;O;38-2023-06-02-00010
-VILLARD-SAINT-CHRISTOPHE;1;Tabor;Grand Serre;26/07/2023;30;Ovin;1;;Indéterminé;Attente transmission constat;O;38-2021-08-03-00009
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Maison Mutte;13/05/2023;19;Bovin;1;20;Indéterminé;Oui;N;
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Le Creux;22/05/2023;21;Ovin;1;532;Loup typé;Oui;O;38-2023-06-02-00010
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Col Malissol;24/05/2023;21;Ovin;1;321;Loup typé;Oui;O;"38-2022-05-12-00007; 38-2023-07-07-00002"
+LAVALDENS;1;Tabor - Grand Serre;Les Bergeries;18/06/2023;24;Ovin;1;1167;Loup typé;Oui;N;38-2023-04-05-00009
+SAINT-HONORÉ;1;Tabor - Grand Serre;Clos des Mouches;28/06/2023;26;Ovin;1;1106;Indéterminé;Oui;O;38-2023-07-10-00007
+SAINT-HONORÉ;1;Tabor - Grand Serre;Clos des Mouches;04/07/2023;27;Ovin;1;1;Loup typé;Oui;O;38-2023-07-10-00007
+VILLARD-SAINT-CHRISTOPHE;1;Tabor - Grand Serre;Le Bois Rond;08/07/2023;27;Bovin;1;90;Indéterminé;Non - loup exclu;N;
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Le Village;15/07/2023;28;Ovin;1;343;Loup typé;Oui;O;38-2023-06-02-00010
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Le Village;16/07/2023;28;Ovin;3;343;Loup non exclu;Oui;O;38-2023-06-02-00010
+VILLARD-SAINT-CHRISTOPHE;1;Tabor - Grand Serre;Grand Serre;26/07/2023;30;Ovin;3;2059;Loup typé;Oui;O;38-2021-08-03-00009
+LA MORTE;1;Tabor - Grand Serre;Le Crau;28/08/2023;35;Ovin;2;1088;Loup typé;Oui;O;38-2023-02-22-00006
+VILLARD-SAINT-CHRISTOPHE;1;Tabor - Grand Serre;Grand Serre;28/08/2023;35;Ovin;6;2006;Loup non exclu;Oui;O;38-2021-08-03-00009
+SIEVOZ;1;Tabor - Grand Serre;Les Combes;02/09/2023;35;Veau naissant;1;1;Indéterminé;Oui;O;38-2020-09-07-003
+LAVALDENS;1;Tabor - Grand Serre;Plan Col;07/09/2023;36;Ovin;2;812;Loup typé;Oui;O;?
+SIEVOZ;1;Tabor - Grand Serre;Le Haut Sievoz;11/09/2023;37;Ovin;3;48;Loup typé;Oui;O;38-2023-06-02-00010
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Serbouvet;28/09/2023;39;Veau naissant;1;28;Indéterminé;Oui;N;38-2020-01-20-00013
+LA MORTE;1;Tabor - Grand Serre;Les Gloutons;30/09/2023;39;Ovin;1;1072;Loup non exclu;Oui;O;38-2021-08-03-00009
+NANTES-EN-RATIER;1;Tabor - Grand Serre;Le Freynet;01/10/2023;39;Ovin;20;24;Loup typé;Oui;O;38-2023-06-02-00010
+NANTES-EN-RATIER;1;Tabor - Grand Serre;;28/10/2023;43;Ovin;1;;Loup typé;Oui;O;38-2023-06-02-00010
+NANTES-EN-RATIER;1;Tabor - Grand Serre;;02/11/2023;44;Canin;2;;Loup typé;Oui;O;?
+NANTES-EN-RATIER;1;Tabor - Grand Serre;;25/11/2023;47;Canin;2;;Loup typé;Oui;O;?
 OULLES;1;Taillefer;;12/06/2023;24;Bovin;1;16;Indéterminé;Non indemnisable;O;38-2019-06-19-003
-OULLES;1;Taillefer;La Scéa;25/06/2023;30;Ovin;8;;Indéterminé;Attente transmission constat;O;38-2022-09-29-00006
 VILLARD-REYMOND;1;Taillefer;Darreire;26/06/2023;26;Ovin;1;879;Loup typé;Oui;N;38-2020-09-14-009
+OULLES;1;Taillefer;La Scéa;25/07/2023;30;Ovin;8;2013;Loup typé;Oui;O;38-2022-09-29-00006
+OULLES;1;Taillefer;Grand Galbert;10/08/2023;32;Ovin;2;2014;Loup typé;Oui;O;38-2022-09-29-00006
+ORNON;1;Taillefer;;15/10/2023;41;Ovin;1;;Loup typé;Oui;O;38-2023-01-30-00005
+ORNON;1;Taillefer;;20/10/2023;42;Ovin;1;;Loup typé;Oui;O;38-2023-01-30-00005
 SAINTE-ANNE-SUR-GERVONDE;2;Terres Froides Méridionales;Le Rovet;09/03/2023;10;Ovin;2;16;Indéterminé;Non - loup exclu;;
 CORBELIN;3;Terres Froides Méridionales;;04/06/2023;22;Veau;1;4;Loup typé;Oui;N;
 LES EPARRES;2;Terres Froides Méridionales;Chemin du Bois;05/06/2023;23;Bovin;2;11;Indéterminé;Oui;N;
+LES EPARRES;2;Terres Froides Méridionales;;16/10/2023;42;Bovin;1;;Indéterminé;Non indemnisable;;
+ECLOSES-BADINIERES;2;Terres Froides Méridionales;;16/10/2023;42;Bovin;1;12;Loup typé;Oui;O;38-2021-04-22-00002
 NIVOLAS-VERMELLE;2;Terres Froides Occidentales;;06/06/2023;23;Ovin;2;12;Loup typé;Oui;N;
 DOLOMIEU;3;Terres Froides Septentrionales;;16/07/2023;28;Bovin;2;11;Indéterminé;Oui;;
 ROISSARD;1;Trièves Centre Nord;;30/05/2023;22;Ovin;7;510;Loup typé;Oui;O;38-2021-09-24-00001
 ROISSARD;1;Trièves Centre Nord;Le Village;05/06/2023;23;Ovin;2;505;Loup typé;Oui;O;38-2021-09-24-00001
+ROISSARD;1;Trièves Centre Nord;L'Homme;21/08/2023;34;Ovin;1;15;Loup typé;Oui;O;38-2021-09-24-00001
+SAINT-MARTIN-DE-LA-CLUZE;1;Trièves Centre Nord;La Patassière;01/09/2023;35;Veau;1;47;Loup typé;Oui;O;38-2023-10-19-00006
+ROISSARD;1;Trièves Centre Nord;L'Homme;14/09/2023;37;Ovin;1;12;Loup typé;Oui;O;38-2021-09-24-00001
+ROISSARD;1;Trièves Centre Nord;Le Village;21/09/2023;38;Ovin;3;49;Loup typé;Oui;O;38-2021-09-24-00001
+CORNILLON-EN-TRIÈVES;1;Trièves Centre Nord;La Croix Haute;10/11/2023;45;Veau;1;;Charognard;Non - loup exclu;N;/
+ROISSARD;1;Trièves Centre Nord;La Grange Brulée;20/11/2023;47;Ovin;10;;Loup typé;Oui;O;38-2021-09-24-00001
 PREBOIS;1;Trièves Sud;Saut du Loup;13/05/2023;19;Ovin;3;250;Loup typé;Oui;O;38-2023-04-25-00009
 SAINT-MAURICE-EN-TRIÈVES;1;Trièves Sud;La Commanderie;19/07/2023;29;Ovin;1;90;Loup non exclu;Oui;N;
+SAINT-MAURICE-EN-TRIÈVES;1;Trièves Sud;Alpage de l'Archat;27/07/2023;30;Ovin;2;482;Loup typé;Oui;O;38-2022-03-21-00014
+LALLEY;1;Trièves Sud;La Bergerie;29/07/2023;30;Ovin;1;831;Loup typé;Oui;O;38-2022-05-16-00007
+LALLEY;1;Trièves Sud;Lalley Le Jocou;25/08/2023;34;Ovin;1;780;Loup non exclu;Oui;O;38-2022-05-16-00007
+SAINT-MAURICE-EN-TRIÈVES;1;Trièves Sud;l'Archat;26/08/2023;34;Ovin;1;478;Loup typé;Oui;O;38-2022-03-21-00014
+LALLEY;1;Trièves Sud;Lalley Le Jocou;29/08/2023;35;Ovin;1;730;Indéterminé;Oui;O;38-2022-05-16-00007
+SAINT-BAUDILLE-ET-PIPET;1;Trièves Sud;Rochassac;05/09/2023;36;Ovin;1;1066;Loup typé;Oui;O;38-2023-07-05-00001
+LALLEY;1;Trièves Sud;Alpage du Jocou;06/09/2023;36;Ovin;2;653;Loup typé;Oui;O;38-2022-05-16-00007
+TREMINIS;1;Trièves Sud;Les Gravelles;11/09/2023;37;Caprin;1;16;Loup typé;Oui;N;
+SAINT-BAUDILLE-ET-PIPET;1;Trièves Sud;Rochassac;13/09/2023;37;Ovin;1;1;Loup typé;Oui;O;38-2023-07-05-00001
+MENS;1;Trièves Sud;;21/10/2023;42;Ovin;1;46;Loup typé;Oui;N;
+SAINT-MAURICE-EN-TRIÈVES;1;Trièves Sud;;01/11/2023;44;Ovin;3;;Indéterminé;Oui;N;
+PREBOIS;1;Trièves Sud;;27/11/2023;48;Ovin;1;;Loup typé;Oui;O;38-2023-04-25-00009
+PREBOIS;1;Trièves Sud;;30/11/2023;48;Ovin;1;;Loup typé;Oui;O;38-2023-04-25-00009
 CLELLES;1;Trièves Sud Ouest;Montmartre;02/01/2023;1;Ovin;3;66;Indéterminé;Non indemnisable;O;38-2021-04-08-00007
 CHICHILIANNE;1;Trièves Sud Ouest;les Cornas;05/06/2023;23;Ovin;12;232;Loup typé;Oui;O;38-2021-04-19-00002
 CHICHILIANNE;1;Trièves Sud Ouest;Bramefan;01/07/2023;26;Ovin;2;222;Loup typé;Oui;O;38-2021-04-19-00002
 CHICHILIANNE;1;Trièves Sud Ouest;Champ du Fau;09/07/2023;27;Ovin;5;220;Loup typé;Oui;O;38-2021-04-19-00002
 CHICHILIANNE;1;Trièves Sud Ouest;les Oches;20/07/2023;29;Ovin;1;215;Loup non exclu;Oui;O;38-2021-04-19-00002
+CHICHILIANNE;1;Trièves Sud Ouest;Pré Garet;05/08/2023;31;Ovin;1;214;Loup typé;Oui;O;38-2021-04-19-00002
+CHICHILIANNE;1;Trièves Sud Ouest;Pré Garet;18/08/2023;33;Ovin;2;212;Loup non exclu;Oui;O;38-2021-04-19-00002
+CLELLES;1;Trièves Sud Ouest;Le Muset;28/08/2023;35;Ovin;8;335;Indéterminé;Non indemnisable;O;38-2021-04-08-00007
+CHICHILIANNE;1;Trièves Sud Ouest;Sagne Longue;15/09/2023;37;Ovin;1;122;Loup typé;Oui;O;38-2021-04-19-00002
+CHICHILIANNE;1;Trièves Sud Ouest;;20/09/2023;38;Ovin;1;330;Indéterminé;Oui;N;
+CHICHILIANNE;1;Trièves Sud Ouest;Charbonnier;23/09/2023;38;Ovin;2;554;Loup non exclu;Oui;O;38-2022-08-02-00004
+CHICHILIANNE;1;Trièves Sud Ouest;les Oches;30/09/2023;39;Ovin;1;60;Loup typé;Oui;O;38-2021-04-19-00002
+CHICHILIANNE;1;Trièves Sud Ouest;Les Magnas;09/10/2023;41;Ovin;1;179;Loup typé;Oui;N;
+SAINT-MICHEL-LES-PORTES;1;Trièves Sud Ouest;Chenicourt;12/10/2023;41;Veau;1;;Indéterminé;Non indemnisable;;
+LE MONESTIER-DU-PERCY;1;Trièves Sud Ouest;Loubet;12/10/2023;41;Ovin;1;48;Loup typé;Oui;N;
+LE MONESTIER-DU-PERCY;1;Trièves Sud Ouest;Loubet;25/10/2023;43;Ovin;1;48;Indéterminé;Oui;N;
 VALBONNAIS;1;Valbonnais;;14/05/2023;19;Canin;2;175;Loup typé;Oui;O;38-2022-01-25-00004
 ENTRAIGUES;1;Valbonnais;la Vacherie;12/06/2023;24;Bovin;1;61;Indéterminé;Non indemnisable;N;/
+ENTRAIGUES;1;Valbonnais;la Vacherie;08/08/2023;32;Bovin;1;32;Indéterminé;Oui;N;
+CHANTEPÉRIER;1;Valbonnais;La Peyra;21/10/2023;42;Ovin;1;650;Loup typé;Oui;O;38-2023-05-15
+VALBONNAIS;1;Valbonnais;;22/10/2023;42;Veau;1;27;Indéterminé;Oui;;
+VALJOUFFREY;1;Valjouffrey;Petit Vallon;12/08/2023;32;Ovin;3;1;Indéterminé;Oui;O;
+VALJOUFFREY;1;Valjouffrey;Le Désert;11/09/2023;37;Caprin;1;1;Indéterminé;Oui;N;
+VALJOUFFREY;1;Valjouffrey;Les Faures;27/09/2023;39;Ovin;2;340;Loup typé;Oui;N;
+VALJOUFFREY;1;Valjouffrey;Côte Belle;27/09/2023;39;Ovin;1;1;Loup non exclu;Oui;O;
+VALJOUFFREY;1;Valjouffrey;Servielle;06/10/2023;40;Ovin;1;;Indéterminé;Oui;N;
+VALJOUFFREY;1;Valjouffrey;Font Turbat;15/10/2023;41;Ovin;1;;Loup typé;Oui;O;
+VALJOUFFREY;1;Valjouffrey;Entraigues;19/10/2023;42;Ovin;1;104;Loup typé;Oui;N;
+VALJOUFFREY;1;Valjouffrey;;01/11/2023;44;Ovin;2;400;Loup typé;Oui;N;
+VALJOUFFREY;1;Valjouffrey;;25/11/2023;47;Ovin;1;;Loup typé;Oui;N;
 VAL-DE-VIRIEU;3;Vallée du Liers et Plateau du Blanchet;Rt de Château-Gaillard;17/04/2023;16;Veau naissant;1;24;Indéterminé;Oui;;
 BLANDIN;3;Vallée du Liers et Plateau du Blanchet;;13/06/2023;24;Veau;1;9;Indéterminé;Non - loup exclu;N;
+CHAMPIER;1;Vallée du Liers et Plateau du Blanchet;;03/12/2023;48;Ovin;1;;Charognard;Non - loup exclu;N;
 ROUSSILLON;3;Vallée du Rhône entre Vienne et Tournon;Rt de l’Abbé Peyssoneau;01/03/2023;9;Ovin;1;24;Indéterminé;Non indemnisable;;
 VERNIOZ;3;Vallée du Rhône entre Vienne et Tournon;Font Froide;12/04/2023;15;Caprin;1;9;Loup typé;Non indemnisable;;
 CHEYSSIEU;3;Vallée du Rhône entre Vienne et Tournon;Chemin de la Plaine;17/04/2023;16;Ovin;12;30;Loup typé;Oui;;
 ROUSSILLON;3;Vallée du Rhône entre Vienne et Tournon;;17/05/2023;20;Ovin;1;16;Indéterminé;Non - loup exclu;N;
 ASSIEU;2;Vallée du Rhône entre Vienne et Tournon;Rue de Charinas;22/05/2023;21;Ovin;1;2;Loup typé;Non indemnisable;N;
 SAINT-ROMAIN-DE-SURIEU;3;Vallée du Rhône entre Vienne et Tournon;Centre social stade;25/05/2023;21;Ovin;8;40;Loup typé;Oui;N;
+LES DEUX ALPES;1;Vénéon;La Selle;15/08/2023;33;Ovin;5;1500;Loup typé;Oui;O;38-2023-08-24-006
+LES DEUX ALPES;1;Vénéon;Alpage des Deux Alpes;18/08/2023;33;Ovin;1;1497;Loup typé;Oui;O;38-2023-08-24-006
+LES DEUX ALPES;1;Vénéon;;28/08/2023;33;Ovin;2;1500;Indéterminé;Oui;O;38-2023-08-24-006
+LES DEUX ALPES;1;Vénéon;La Selle;04/09/2023;36;Ovin;1;1;Loup typé;Oui;O;38-2023-08-24-006
 LANS-EN-VERCORS;1;Vercors 4 Montagnes;Col de l’Arc;23/07/2023;29;Ovin;4;1051;Loup typé;Oui;O;38-2022-01-25-00005
 LANS-EN-VERCORS;1;Vercors 4 Montagnes;Pic St Michel;26/07/2023;30;Ovin;2;1040;Loup typé;Oui;O;38-2022-02-09-00006
+LANS-EN-VERCORS;1;Vercors 4 Montagnes;Col de l'Arc;31/07/2023;31;Ovin;1;1;Indéterminé;Oui;O;38-2022-02-09-00006
+LANS-EN-VERCORS;1;Vercors 4 Montagnes;Combe Oursière;02/08/2023;31;Ovin;2;2;Indéterminé;Oui;O;38-2022-02-09-00006
+ENGINS;1;Vercors 4 Montagnes;Sornin;04/08/2023;31;Ovin;1;900;Loup typé;Oui;O;38-2022-09-01-00001
+CORRENÇON-EN-VERCORS;1;Vercors 4 Montagnes;Combeauvieux;07/08/2023;32;Ovin;1;550;Loup non exclu;Oui;N;
+ENGINS;1;Vercors 4 Montagnes;Les Clapiers;13/08/2023;32;Ovin;1;883;Indéterminé;Oui;N;
+LANS-EN-VERCORS;1;Vercors 4 Montagnes;Pic St Michel;14/08/2023;33;Ovin;8;801;Loup typé;Oui;O;38-2022-02-09-00006
+ENGINS;1;Vercors 4 Montagnes;Plateau de Sornin;14/08/2023;33;Ovin;1;883;Indéterminé;Oui;N;
+LANS-EN-VERCORS;1;Vercors 4 Montagnes;Pic St Michel;16/08/2023;33;Ovin;4;4;Loup typé;Oui;O;38-2022-02-09-00006
+ENGINS;1;Vercors 4 Montagnes;Sornin;28/08/2023;35;Ovin;1;883;Indéterminé;Oui;O;38-2022-09-01-00001
+VILLARD-DE-LANS;1;Vercors 4 Montagnes;Roybon;29/08/2023;35;Bovin;4;110;Loup typé;Oui;N;
+ENGINS;1;Vercors 4 Montagnes;Sornin;05/09/2023;36;Ovin;1;883;Loup typé;Oui;O;38-2022-09-01-00001
+LANS-EN-VERCORS;1;Vercors 4 Montagnes;Station de ski;10/09/2023;36;Ovin;15;35;Loup typé;Oui;O;38-2022-02-09-00006
+VILLARD-DE-LANS;1;Vercors 4 Montagnes;La Côte 2000;17/09/2023;37;Ovin;1;535;Loup typé;Oui;N;
+ENGINS;1;Vercors 4 Montagnes;Sornin;19/09/2023;38;Ovin;1;874;Indéterminé;Oui;O;38-2022-09-01-00001
+ENGINS;1;Vercors 4 Montagnes;Sornin;21/09/2023;38;Ovin;1;874;Loup non exclu;Oui;O;38-2022-09-01-00001
+VILLARD-DE-LANS;1;Vercors 4 Montagnes;le Cornafion;28/09/2023;39;Ovin;1;420;Loup typé;Oui;O;38-2020-07-22-003
+VILLARD-DE-LANS;1;Vercors 4 Montagnes;le Cornafion;29/08/2023;39;Ovin;1;1;Loup typé;Oui;O;38-2020-07-22-003
 LE GUA;1;Vercors Balcons Est;Saint Barthélémy;20/01/2023;3;Canin;1;1;Loup non exclu;Non indemnisable;;
 GRESSE-EN-VERCORS;1;Vercors Balcons Est;Haut de Gresse;22/01/2023;3;Veau naissant;1;6;Indéterminé;Oui;O;38-2020-09-07-002
 GRESSE-EN-VERCORS;1;Vercors Balcons Est;Chandelier;23/03/2023;12;Veau;1;95;Indéterminé;Oui;O;38-2020-09-07-002
-SAINT-ANDÉOL;1;Vercors Balcons Est;Garneyre;26/04/2023;26;Ovin;5;89;Loup typé;Oui;O;38-2017-05-09-004
+SAINT-ANDÉOL;1;Vercors Balcons Est;Garneyre;26/06/2023;26;Ovin;5;89;Loup typé;Oui;O;38-2017-05-09-004
 GRESSE-EN-VERCORS;1;Vercors Balcons Est;Saint-Guillaume;19/05/2023;20;Veau;4;11;Indéterminé;Non indemnisable;N;/
 GRESSE-EN-VERCORS;1;Vercors Balcons Est;Chauplane;27/05/2023;21;Bovin;14;176;Indéterminé;Oui;N;
 SAINT-GUILLAUME;1;Vercors Balcons Est;La Châtelette;24/07/2023;30;Ovin;6;39;Loup typé;Oui;N;
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Le Brisou;30/07/2023;30;Ovin;4;342;Loup typé;Oui;O;38-2022-08-09-00001
+SAINT-GUILLAUME;1;Vercors Balcons Est;Bouveterre;01/08/2023;31;Ovin;11;24;Loup typé;Oui;O;38-2021-04-22-00001
+SAINT-GUILLAUME;1;Vercors Balcons Est;Maninaire;02/08/2023;31;Ovin;1;2;Loup typé;Non indemnisable;N;
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Le Brisou;03/08/2023;31;Ovin;1;327;Loup non exclu;Non indemnisable;O;38-2022-08-09-00001
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Station de ski;03/08/2023;31;Ovin;2;160;Loup typé;Oui;O;38-2022-02-09-00007
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Bois du Four;03/08/2023;31;Veau naissant;1;10;Indéterminé;Oui;O;38-2020-09-07-002
+LE GUA;1;Vercors Balcons Est;Les Amieux;16/09/2023;37;Veau naissant;1;5;Loup non exclu;Oui;O;38-2023-11-02-00001
+SAINT-GUILLAUME;1;Vercors Balcons Est;Plan Grisail;19/09/2023;38;Ovin;10;24;Loup typé;Oui;N;
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Le Brisou;19/09/2023;38;Ovin;1;295;Loup typé;Oui;O;38-2022-08-09-00001
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Chauplane;22/09/2023;38;Bovin;1;200;Indéterminé;Oui;N;
+SAINT-GUILLAUME;1;Vercors Balcons Est;Le Grisail;24/09/2023;38;Ovin;3;140;Loup typé;Oui;O;38-2021-04-22-00001
+SAINT-PAUL-LÈS-MONESTIER;1;Vercors Balcons Est;Le Village;25/09/2023;39;Ovin;3;;Loup typé;Oui;O;38-2021-04-22-00001
+SAINT-GUILLAUME;1;Vercors Balcons Est;Le Pra;26/09/2023;39;Ovin;1;4;Loup non exclu;Oui;;
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Chauplane;28/09/2023;39;Bovin;1;200;Indéterminé;Oui;N;
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;;03/10/2023;40;Veau;1;;Indéterminé;Non indemnisable;O;38-2020-09-07-002
+SAINT-GUILLAUME;1;Vercors Balcons Est;;03/11/2023;44;Ovin;2;;Loup typé;Oui;O;38-2021-04-22-00001
+SAINT-PAUL-LÈS-MONESTIER;1;Vercors Balcons Est;;15/11/2023;46;Ovin;5;;Loup typé;Oui;O;38-2021-09-24-00001
+SAINT-PAUL-LÈS-MONESTIER;1;Vercors Balcons Est;;16/11/2023;46;Ovin;4;;Loup typé;Oui;O;38-2021-09-24-00001
+GRESSE-EN-VERCORS;1;Vercors Balcons Est;Col de l'Alima;30/11/2023;48;Bovin;1;;Indéterminé;Non indemnisable;O;38-2020-09-07-002
 GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;12/07/2023;28;Ovin;2;1285;Loup non exclu;Oui;N;/
 GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;21/07/2023;29;Ovin;33;1285;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Combe Mâle;27/07/2023;30;Ovin;2;1800;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;01/08/2023;31;Ovin;2;1285;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;04/08/2023;31;Ovin;3;252;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Grande Cabane;04/08/2023;31;Ovin;1;80;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;10/08/2023;32;Ovin;2;1285;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;12/08/2023;32;Ovin;1;1;Indéterminé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Montaveilla;13/08/2023;32;Ovin;1;250;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Grande Cabane;14/08/2023;33;Ovin;1;4302;Loup non exclu;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;17/08/2023;33;Ovin;1;1600;Loup non exclu;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Tête du Faisan;20/08/2023;33;Ovin;1;1730;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Fontaine de Bonneveau;22/08/2023;34;Ovin;10;40;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;25/08/2023;34;Ovin;1;1;Loup non exclu;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;28/08/2023;35;Ovin;1;1;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;28/08/2023;35;Ovin;2;3470;Loup non exclu;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;29/08/2023;35;Ovin;1;3470;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Pas des Bachassons;08/09/2023;36;Ovin;1;1;Loup non exclu;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Montaveilla;07/09/2023;36;Ovin;1;1;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Bonneveau;07/09/2023;36;Ovin;6;2125;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;08/09/2023;36;Ovin;1;1;Indéterminé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;19/09/2023;38;Ovin;1;1;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Peyre Rouge;24/09/2023;38;Ovin;3;3;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;30/09/2023;39;Ovin;1;1567;Loup typé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Prés Garet;04/10/2023;40;Ovin;1;61;Loup typé;Oui;O;38-2021-04-19-00002
+CHICHILIANNE;1;Vercors Hauts Plateaux;;09/10/2023;41;Ovin;1;2;Indéterminé;Oui;N;/
+CHICHILIANNE;1;Vercors Hauts Plateaux;Jardin du Roy;10/10/2023;41;Ovin;1;988;Loup non exclu;;;
 IZERON;1;Vercors Nord;Charvolet;20/02/2023;8;Autre;3;11;Loup non exclu;Non indemnisable;;
 IZERON;1;Vercors Nord;Hameau de San;05/04/2023;14;Ovin;3;;Indéterminé;Non indemnisable;;
 SAINT-QUENTIN-SUR-ISÈRE;1;Vercors Nord;Matinerie;30/06/2023;26;Ovin;8;46;Loup typé;Oui;O;38-2022-05-16-00006
-COUBLEVIE;1;Voironnais;;10/07/2023;22;Bovin;1;10;Indéterminé;Non - loup exclu;N;
+MALLEVAL-EN-VERCORS;1;Vercors Nord;Village;31/07/2023;31;Ovin;13;41;Loup typé;Oui;O;38-2021-06-04-00005
+MALLEVAL-EN-VERCORS;1;Vercors Nord;Le Moulin;14/08/2023;33;Caprin;1;1;Indéterminé;Oui;O;38-2021-06-04-00005
+RENCUREL;1;Vercors Nord;Col de Romeyère;27/09/2023;39;Veau;2;;Indéterminé;Non indemnisable;;
+MONTAUD;1;Vercors Nord;;27/09/2023;39;Ovin;1;;Loup non exclu;Oui;;
+COUBLEVIE;1;Voironnais;;10/07/2023;28;Bovin;1;10;Indéterminé;Non - loup exclu;N;
+CHIRENS;3;Voironnais;La Louvatière;05/09/2023;36;Veau naissant;1;11;Indéterminé;Non indemnisable;N;
+RIVES;2;Voironnais;;02/11/2023;44;Bovin;1;;Loup typé;Oui;N;
+;;;;20/10/2023;42;Canin;0;;Indéterminé;Non - loup exclu;O;38-2022-02-09-00004
