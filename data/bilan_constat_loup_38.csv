@@ -1992,7 +1992,7 @@ LES CÔTES-DE-CORPS;1;Beaumont;Le Bois du Ser;08/07/2023;27;Ovin;1;1033;Loup typ
 LES CÔTES-DE-CORPS;1;Beaumont;Le Bois du Ser;21/07/2023;29;Ovin;1;1029;Indéterminé;Oui;O;38-2022-03-28-00009
 SAINT-LAURENT-EN-BEAUMONT;1;Beaumont;Malbuisson;30/07/2023;30;Bovin;1;13;Indéterminé;Oui;N;38-2020-01-20-00013
 SAINT-LAURENT-EN-BEAUMONT;1;Beaumont;Chalméanne;30/07/2023;30;Veau naissant;1;14;Indéterminé;Oui;;
-LA SALETTE-FALLAVAUX;1;Beaumont;Sanctuaire Notre-Dame;31/07/2023;31;Ovin;2;1535;Loup typé;Oui;N;/
+LA SALETTE-FALLAVAUX;1;Beaumont;Sanctuaire Notre-Dame;31/07/2023;31;Ovin;6;1535;Loup typé;Oui;N;/
 LES CÔTES-DE-CORPS;1;Beaumont;Bois du Ser;10/08/2023;32;Ovin;2;1056;Indéterminé;Oui;O;38-2022-03-28-00009
 LA SALETTE-FALLAVAUX;1;Beaumont;La Pale;16/08/2023;33;Ovin;1;1607;Loup non exclu;Oui;O;38-2021-05-10-00008
 LES CÔTES-DE-CORPS;1;Beaumont;Côte Rouge;16/08/2023;33;Ovin;1;1;Indéterminé;Oui;O;38-2022-03-28-00009
@@ -2079,7 +2079,7 @@ ROYBON;1;Chambarans;Bois du Pilon;08/08/2023;32;Ovin;1;20;Loup typé;Oui;N;
 VATILIEU;1;Chambarans;Combe de la Pigeonnière;19/08/2023;33;Ovin;1;40;Indéterminé;Non indemnisable;O;38-2023-04-25-00008
 VATILIEU;1;Chambarans;le Mollard;30/08/2023;35;Ovin;1;28;Loup typé;Non indemnisable;O;38-2023-04-25-00008
 VATILIEU;1;Chambarans;Les Tapeaux;05/09/2023;36;Ovin;5;40;Loup typé;Non - loup exclu;O;38-2023-04-25-00008
-VATILIEU;1;Chambarans;Croix du Plâtre;19/09/2023;38;Ovin;1;30;Loup typé;Non indemnisable;O;38-2023-04-25-00008
+VATILIEU;1;Chambarans;Croix du Plâtre;19/09/2023;38;Ovin;3;30;Loup typé;Non indemnisable;O;38-2023-04-25-00008
 ROYBON;1;Chambarans;Château Rocher;20/09/2023;38;Caprin;1;12;Loup non exclu;Oui;;
 VATILIEU;1;Chambarans;Croix du Plâtre;21/09/2023;38;Ovin;1;70;Loup non exclu;Non indemnisable;O;38-2023-04-25-00008
 BRION;1;Chambarans;;10/10/2023;41;Ovin;1;25;Loup typé;Oui;N;
@@ -2166,7 +2166,7 @@ CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Ruisseau de l’Aiguille;25/06/2023;
 CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Les Guillons;04/07/2023;27;Ovin;3;350;Loup typé;Oui;O;38-2016-11-25-014
 CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Le Chatel;15/07/2023;28;Ovin;5;1097;Loup non exclu;Oui;O;38-2023-07-05-00001
 PELLAFOL;1;Obiou - Plateau d'Ambel;Vallon de l'Obiou;31/07/2023;31;Ovin;12;800;Loup typé;Oui;O;38-2016-07-25-002
-CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Rochassac;06/08/2023;31;Ovin;2;1085;Loup non exclu;Oui;O;38-2023-07-05-00001
+CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Rochassac;06/08/2023;31;Ovin;3;1085;Loup non exclu;Oui;O;38-2023-07-05-00001
 CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Bachilianne;06/08/2023;31;Ovin;1;1085;Loup typé;Oui;O;38-2023-07-05-00001
 CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Côte de l'Aiguille;30/08/2023;35;Ovin;2;1073;Loup typé;Oui;O;38-2023-07-05-00001
 CHATEL-EN-TRIEVES;1;Obiou - Plateau d'Ambel;Rochassac;25/09/2023;39;Ovin;2;2;Loup non exclu;Oui;O;38-2023-07-05-00001
@@ -2377,7 +2377,7 @@ SAINT-PAUL-LÈS-MONESTIER;1;Vercors Balcons Est;;15/11/2023;46;Ovin;5;;Loup typ�
 SAINT-PAUL-LÈS-MONESTIER;1;Vercors Balcons Est;;16/11/2023;46;Ovin;4;;Loup typé;Oui;O;38-2021-09-24-00001
 GRESSE-EN-VERCORS;1;Vercors Balcons Est;Col de l'Alima;30/11/2023;48;Bovin;1;;Indéterminé;Non indemnisable;O;38-2020-09-07-002
 GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;12/07/2023;28;Ovin;2;1285;Loup non exclu;Oui;N;/
-GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;21/07/2023;29;Ovin;33;1285;Loup typé;Oui;N;/
+GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;21/07/2023;29;Ovin;36;1285;Loup typé;Oui;N;/
 GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;Combe Mâle;27/07/2023;30;Ovin;2;1800;Loup typé;Oui;N;/
 GRESSE-EN-VERCORS;1;Vercors Hauts Plateaux;La Chau;01/08/2023;31;Ovin;2;1285;Loup typé;Oui;N;/
 CHICHILIANNE;1;Vercors Hauts Plateaux;Jas Neuf;04/08/2023;31;Ovin;3;252;Loup typé;Oui;N;/
