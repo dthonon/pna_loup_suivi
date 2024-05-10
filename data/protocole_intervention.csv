@@ -167,8 +167,8 @@ Année;Département;AP_TDS;AP_TDR;AP_TP;AP_TPR;Loups_tués_légal;Loups_tués_il
 2022;Yonne;;;0;;;;
 2023;Ain;;;0;;;;
 2023;Allier;;;0;;;;
-2023;Alpes-de-Haute-Provence;591;32;0;;38;;
-2023;Alpes-Maritimes;;;0;;52;;
+2023;Alpes-de-Haute-Provence;591;32;0;;38;2;
+2023;Alpes-Maritimes;;;0;;52;2;
 2023;Ardèche;14;0;0;;;;
 2023;Ardennes;;;0;;;;
 2023;Ariège;;;0;;;;
@@ -185,7 +185,7 @@ Année;Département;AP_TDS;AP_TDR;AP_TP;AP_TPR;Loups_tués_légal;Loups_tués_il
 2023;Côte-d'Or;;;0;;1;;
 2023;Creuse;1;0;0;;;;
 2023;Doubs;25;0;0;;;;
-2023;Drôme;191;7;0;;16;;
+2023;Drôme;191;7;0;;16;1;
 2023;Eure;;;0;;;;
 2023;Finistère;;;0;;;;
 2023;Gard;16;0;0;;;;
@@ -193,9 +193,9 @@ Année;Département;AP_TDS;AP_TDR;AP_TP;AP_TPR;Loups_tués_légal;Loups_tués_il
 2023;Haute-Loire;0;0;0;;;;
 2023;Haute-Marne;4;0;0;;;;
 2023;Haute-Saône;;;0;;;;
-2023;Haute-Savoie;;;0;;10;;
+2023;Haute-Savoie;;;0;;10;1;
 2023;Haute-Vienne;;;0;;;;
-2023;Hautes-Alpes;;;0;;19;;
+2023;Hautes-Alpes;;;0;;19;1;
 2023;Hautes-Pyrénées;3;0;0;;;;
 2023;Hérault;11;6;0;;;;
 2023;Isère;258;8;0;;13;;
@@ -214,12 +214,11 @@ Année;Département;AP_TDS;AP_TDR;AP_TP;AP_TPR;Loups_tués_légal;Loups_tués_il
 2023;Pyrénées-Orientales;0;0;0;;;;
 2023;Rhône;0;0;0;;;;
 2023;Saône-et-Loire;;;0;;2;;
-2023;Savoie;;;0;;25;;
+2023;Savoie;;;0;;25;1;
 2023;Tarn;;;0;;;;
 2023;Territoire de Belfort;0;0;0;;;;
-2023;Var;79;9;0;;18;;
+2023;Var;79;9;0;;18;1;
 2023;Vaucluse;;;0;;;;
 2023;Vienne;0;0;0;;;;
 2023;Vosges;;;0;;;;
 2023;Yonne;2;0;0;;;;
-2023;Paris;;;;;;9;
