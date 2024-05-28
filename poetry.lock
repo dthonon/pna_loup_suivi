@@ -2209,33 +2209,20 @@ testing-docutils = ["pygments", "pytest (>=8,<9)", "pytest-param-files (>=0.6.0,
 
 [[package]]
 name = "nbclassic"
-version = "1.0.0"
+version = "1.1.0"
 description = "Jupyter Notebook as a Jupyter Server extension."
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "nbclassic-1.0.0-py3-none-any.whl", hash = "sha256:f99e4769b4750076cd4235c044b61232110733322384a94a63791d2e7beacc66"},
-    {file = "nbclassic-1.0.0.tar.gz", hash = "sha256:0ae11eb2319455d805596bf320336cda9554b41d99ab9a3c31bf8180bffa30e3"},
+    {file = "nbclassic-1.1.0-py3-none-any.whl", hash = "sha256:8c0fd6e36e320a18657ff44ed96c3a400f17a903a3744fc322303a515778f2ba"},
+    {file = "nbclassic-1.1.0.tar.gz", hash = "sha256:77b77ba85f9e988f9bad85df345b514e9e64c7f0e822992ab1df4a78ac64fc1e"},
 ]
 
 [package.dependencies]
-argon2-cffi = "*"
 ipykernel = "*"
 ipython-genutils = "*"
-jinja2 = "*"
-jupyter-client = ">=6.1.1"
-jupyter-core = ">=4.6.1"
-jupyter-server = ">=1.8"
-nbconvert = ">=5"
-nbformat = "*"
 nest-asyncio = ">=1.5"
 notebook-shim = ">=0.2.3"
-prometheus-client = "*"
-pyzmq = ">=17"
-Send2Trash = ">=1.8.0"
-terminado = ">=0.8.3"
-tornado = ">=6.1"
-traitlets = ">=4.2.1"
 
 [package.extras]
 docs = ["myst-parser", "nbsphinx", "sphinx", "sphinx-rtd-theme", "sphinxcontrib-github-alt"]
