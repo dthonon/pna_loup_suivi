@@ -21,12 +21,12 @@ Année;arrêté_plafond;nb_loups_tués;plafond;Esti_OFB;ic_bas;ic_haut;zpp;zpp_m
 2012;;;;201,2;157,6;264,8;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
 2013;;;;167,4;129,8;228,7;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
 2014;;;;337,1;259,1;451,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2015;;;;275,7;208,5;355,1;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2016;360;;;341,4;266,4;462,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2017;430;;;529,9;412,8;722,1;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2018;530;51;;540,7;417;771,9;74;57;;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/a-20181016-ap-relevementplafond-vs.pdf;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2019;580;99;100;563,6;462,2;775,3;92;70;;2;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20190729_not_relevementseuilplafond90scan.pdf;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2020;624;105;110;577;474;680;100;81;3;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/201029_not_plafond_loup.pdf;https://www.loupfrance.fr/wp-content/uploads/Note_MAJ-effectifs_Survie-VD-1.pdf;https://www.loupfrance.fr/wp-content/uploads/FIL-n%C2%B012_bilan-hivernal-19-20.pdf
+2015;;36;36;275,7;208,5;355,1;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
+2016;360;40;40;380;;;;;;;.;;.
+2017;430;37;40;560;;;;;;;.;Courbe GNL : estimation à vue;.
+2018;527;51;51;580;;;74;57;;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/a-20181016-ap-relevementplafond-vs.pdf;Courbe GNL : estimation à vue;.
+2019;580;99;100;690;;;92;70;;2;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20190729_not_relevementseuilplafond90scan.pdf;Courbe GNL : estimation à vue;.
+2020;624;105;110;640;;;100;81;3;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/201029_not_plafond_loup.pdf;Courbe GNL : estimation à vue;https://www.loupfrance.fr/wp-content/uploads/FIL-n%C2%B012_bilan-hivernal-19-20.pdf
 2021;921;106;118;783;642;978;125;106;2;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/210722_not_plafond_2021.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf;.
 2022;1104;169;174;1096;825;1635;158;135;23;5;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/note_plafond.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf
 2023;;207;209;1003;750;1344;180;157;30;9;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20230918_note-plafond-2023.pdf;.;.
