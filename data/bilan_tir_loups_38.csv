@@ -1,24 +1,33 @@
 Nb;Commune;Date;Type loup;Type tir;Tireur
-1;CHICHILIANNE;18/06/23;Jeune louve;TDS;Chasseur
-1;REVEL;03/07/23;Louve;TDR;Lieutenant de louveterie
-1;LAVALDENS;21/07/23;Loup;TDR;Lieutenant de louveterie
-1;CHICHILIANNE;27/07/23;Louve;TDR;Lieutenant de louveterie
-1;REVEL;04/08/23;Louve;TDR;Lieutenant de louveterie
-1;LAVALDENS;09/08/23;Loup;TDR;Lieutenant de louveterie
-1;BESSE-EN-OISANS;12/08/23;Louve;TDR;Berger
-1;LAVALDENS;14/08/23;Loup;TDR;Lieutenant de louveterie
-1;LAVALDENS;25/08/23;Louve;TDR;BMI
-1;REVEL;11/09/23;Loup;TDR;Lieutenant de louveterie
-1;ROISSARD;23/09/23;Louve;TDR;Lieutenant de louveterie
-1;SAINT-MICHEL-EN-BEAUMONT;05/11/23;Loup;TDR;Lieutenant de louveterie
-1;SAINT-PAUL-LES-MONESTIER;17/11/23;Louve;TDS;Éleveur
-1;LAVALDENS;22/07/22;Loup subadulte;TDR;Lieutenant de louveterie
-1;VAUJANY;27/07/22;Loup;TDS;Chasseur
-1;VAUJANY;27/07/22;Loup;TDS;Chasseur
-1;CHOLONGE;30/07/22;Louve;TDR;Lieutenant de louveterie
 1;PRESLES;02/09/22;Loup;TDS;Lieutenant de louveterie
 1;CHOLONGE;02/09/22;Loup;TDR;Lieutenant de louveterie
+1;REVEL;03/07/23;Louve;TDR;Lieutenant de louveterie
+1;REVEL;04/08/23;Louve;TDR;Lieutenant de louveterie
+1;SAINT-MICHEL-EN-BEAUMONT;05/11/23;Loup;TDR;Lieutenant de louveterie
 1;CÔTES-DE-CORPS;07/10/22;Loup subadulte;TDS;Lieutenant de louveterie
 1;CÔTES-DE-CORPS;07/10/22;Louveteau femelle;TDS;Lieutenant de louveterie
-1;HERBEYS;13/10/22;Loup;TDS;Lieutenant de louveterie
 1;HERBEYS;08/12/22;Loup subadulte;TDS;Lieutenant de louveterie
+1;LAVALDENS;09/08/23;Loup;TDR;Lieutenant de louveterie
+1;REVEL;11/09/23;Loup;TDR;Lieutenant de louveterie
+1;BESSE-EN-OISANS;12/08/23;Louve;TDR;Berger
+1;HERBEYS;13/10/22;Loup;TDS;Lieutenant de louveterie
+1;LAVALDENS;14/08/23;Loup;TDR;Lieutenant de louveterie
+1;SAINT-PAUL-LES-MONESTIER;17/11/23;Louve;TDS;Éleveur
+1;CHICHILIANNE;18/06/23;Jeune louve;TDS;Chasseur
+1;LAVALDENS;21/07/23;Loup;TDR;Lieutenant de louveterie
+1;LAVALDENS;22/07/22;Loup subadulte;TDR;Lieutenant de louveterie
+1;ROISSARD;23/09/23;Louve;TDR;Lieutenant de louveterie
+1;LAVALDENS;25/08/23;Louve;TDR;BMI
+1;VAUJANY;27/07/22;Loup;TDS;Chasseur
+1;VAUJANY;27/07/22;Loup;TDS;Chasseur
+1;CHICHILIANNE;27/07/23;Louve;TDR;Lieutenant de louveterie
+1;CHOLONGE;30/07/22;Louve;TDR;Lieutenant de louveterie
+1;LIVET-GAVET;06/06/24;Loup;TDS;Lieutenant de louveterie
+1;SAINT-JEAN-DE-VAULX;03/07/24;Loup;TDS;Lieutenant de louveterie
+1;SAINT-PIERRE-DE-CHARTREUSE;04/08/24;Louve;TDS;Lieutenant de louveterie
+1;ENGINS;01/09/24;Loup;TDS;Berger
+1;SAINT-MICHEL-EN-BEAUMONT;02/09/24;Loup;TDS;Lieutenant de louveterie
+1;VILLARD-SAINT-CHRISTOPHE;04/09/24;Louve;TDR;Lieutenant de louveterie
+1;MALLEVAL-EN-VERCORS;05/09/24;Louve;TDS;Lieutenant de louveterie
+2;NOTRE-DAME-DE-VAULX;23/10/24;Louveteaux mâles;TDS;Lieutenant de louveterie
+1;NOTRE-DAME-DE-VAULX;24/10/24;Louve;TDS;Lieutenant de louveterie
