@@ -1,33 +1,40 @@
-[tool.poetry]
+[project]
 name = "pna_loup_suivi"
 version = "0.0.1"
 description = "Pna_Loup_Suivi"
-authors = ["Daniel Thonon <d.thonon9@gmail.com>"]
+authors = [{ name = "Daniel Thonon", email = "d.thonon9@outlook.com" }]
 license = "GPL-3.0"
 readme = "README.md"
-homepage = "https://github.com/dthonon/pna_loup_suivi"
-repository = "https://github.com/dthonon/pna_loup_suivi"
-documentation = "https://pna_loup_suivi.readthedocs.io"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Operating System :: POSIX :: Linux",
     "Programming Language :: Python :: 3.10",
 ]
+requires-python = ">=3.11, <4.0"
+dependencies = [
+    "click>=8.0",
+    "geopandas>=0.12",
+    "ipykernel>=6.29",
+    "jupyterlab>=3.5",
+    "numpy>=1.21",
+    "pandas>=1.5",
+    "seaborn>=0.12",
+]
+dynamic = ["urls"]
+
+[project.scripts]
+pna_loup_suivi = "pna_loup_suivi.__main__:main"
 
 [tool.poetry.urls]
 Changelog = "https://github.com/dthonon/pna_loup_suivi/releases"
+homepage = "https://github.com/dthonon/pna_loup_suivi"
+repository = "https://github.com/dthonon/pna_loup_suivi"
+documentation = "https://pna_loup_suivi.readthedocs.io"
 
-[tool.poetry.dependencies]
-python = ">=3.10, <4.0"
-click = ">=8.0"
-geopandas = ">=0.12"
-ipykernel = ">=6.29"
-jupyterlab = ">=3.5"
-numpy = ">=1.21"
-pandas = ">=1.5"
-seaborn = ">=0.12"
+[tool.poetry]
+requires-poetry = '>=2.0'
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 black = ">=21.10b0"
 coverage = { extras = ["toml"], version = ">=6.2" }
 darglint = ">=1.8"
@@ -53,9 +60,6 @@ sphinx-autobuild = ">=2021.3"
 sphinx-click = ">=3.0"
 typeguard = ">=2.13"
 xdoctest = { extras = ["colors"], version = ">=0.15" }
-
-[tool.poetry.scripts]
-pna_loup_suivi = "pna_loup_suivi.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
