@@ -1,34 +1,35 @@
-Année;arrêté_plafond;nb_loups_tués;plafond;Esti_OFB;ic_bas;ic_haut;zpp;zpp_meute;zpp_a_suivre;zpp_en_sursis;Source_décret;Source_pop;Source_zpp
-1993;;;;;;;;;;;.;.;.
-1994;;;;;;;;;;;.;.;.
-1995;;;;;;;;;;;.;;.
-1996;;;;17,1;1,8;33,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-1997;;;;35,4;20,8;60,5;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-1998;;;;47,7;25,9;73,2;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-1999;;;;24,7;8,9;46,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2000;;;;58,4;34,5;94,2;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2001;;;;45,7;28,1;69,2;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2002;;;;76,1;48,1;119,6;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2003;;;;103,1;76,1;139,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2004;;;;97,2;73,1;144,5;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2005;;;;122,5;94,6;164,7;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2006;;;;125,2;88,2;167,7;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2007;;;;101,1;71,3;126,3;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2008;;;;118,7;89,3;166,8;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2009;;;;135,9;99,2;178,3;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2010;;;;134,3;94,4;177,1;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2011;;;;164,7;121,8;217,4;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2012;;;;201,2;157,6;264,8;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2013;;;;167,4;129,8;228,7;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2014;;;;337,1;259,1;451,9;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2015;;36;36;275,7;208,5;355,1;;;;;.;https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv;.
-2016;360;40;40;380;;;;;;;.;;.
-2017;430;37;40;560;;;;;;;.;Courbe GNL : estimation à vue;.
-2018;527;51;51;580;;;74;57;;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/a-20181016-ap-relevementplafond-vs.pdf;Courbe GNL : estimation à vue;.
-2019;580;99;100;690;;;92;70;;2;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20190729_not_relevementseuilplafond90scan.pdf;Courbe GNL : estimation à vue;.
-2020;624;105;110;640;;;100;81;3;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/201029_not_plafond_loup.pdf;Courbe GNL : estimation à vue;https://www.loupfrance.fr/wp-content/uploads/FIL-n%C2%B012_bilan-hivernal-19-20.pdf
-2021;921;106;118;783;642;978;125;106;2;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/210722_not_plafond_2021.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf;.
-2022;1104;169;174;1096;825;1635;158;135;23;5;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/note_plafond.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf;https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf
-2023;;207;209;1003;750;1344;180;157;30;9;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20230918_note-plafond-2023.pdf;.;.
-2024;1013;202;209;1013;920;1125;;;;;https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/cp_161224_gnl_.pdf;https://www.loupfrance.fr/suivi-du-loup/situation-du-loup-en-france/;.
-2025;;;192;;;;;;;;;.;.
+Année,arrêté_plafond,nb_loups_tués,plafond,Esti_OFB,ic_bas,ic_haut,zpp,zpp_meute,zpp_a_suivre,zpp_en_sursis,Source_décret,Source_pop,Source_zpp,,,
+1993,,,,,,,,,,,.,.,.,,,
+1994,,,,,,,,,,,.,.,.,,,
+1995,,,,,,,,,,,.,,.,,,
+1996,,,,17,2,34,8,33,9,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+1997,,,,35,21,61,8,60,5,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+1998,,,,48,26,73,9,73,2,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+1999,,,,25,10,59,9,46,9,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2000,,,,63,33,138,5,94,2,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2001,,,,48,28,89,1,69,2,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2002,,,,82,50,150,1,119,6,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2003,,,,111,75,218,1,139,9,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2004,,,,103,72,202,1,144,5,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2005,,,,136,97,282,6,164,7,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2006,,,,133,95,259,2,167,7,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2007,,,,102,74,202,3,126,3,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2008,,,,130,95,278,3,166,8,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2009,,,,141,100,288,2,178,3,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2010,,,,142,106,286,4,177,1,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2011,,,,176,132,359,8,217,4,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2012,,,,210,161,408,6,264,8,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2013,,,,175,132,353,8,228,7,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2014,,,,354,279,706,1,451,9,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2015,,36,36,280,217,583,5,355,1,,,,,.,https://github.com/oliviergimenez/note-information-nombre-loups/blob/master/dat/nbloupsestime.csv,.
+2016,360,40,40,377,286,755,,,,,.,,.,,,
+2017,430,37,40,561,432,884,,,,,.,Courbe GNL : estimation à vue,.,,,
+2018,527,51,51,572,461,904,74,57,,,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/a-20181016-ap-relevementplafond-vs.pdf,Courbe GNL : estimation à vue,.,,,
+2019,580,99,100,682,539,969,92,70,,2,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20190729_not_relevementseuilplafond90scan.pdf,Courbe GNL : estimation à vue,.,,,
+2020,624,105,110,646,509,935,100,81,3,,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/201029_not_plafond_loup.pdf,Courbe GNL : estimation à vue,https://www.loupfrance.fr/wp-content/uploads/FIL-n%C2%B012_bilan-hivernal-19-20.pdf,,,
+2021,921,106,118,784,642,978,125,106,2,,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/210722_not_plafond_2021.pdf,https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf,.,,,
+2022,1104,169,174,1081,814,1484,158,135,23,5,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/note_plafond.pdf,https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf,https://www.loupfrance.fr/wp-content/uploads/Bilan_2022_VF_FG.pdf,,,
+2023,,207,209,1003,750,1344,180,157,30,9,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/20230918_note-plafond-2023.pdf,.,.,,,
+2024,1013,202,209,1013,920,1125,,,,,https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/cp_161224_gnl_.pdf,https://www.loupfrance.fr/suivi-du-loup/situation-du-loup-en-france/,.,,,
+2025,1082,190,192,1082,989,1187,,,,,https://pna-loup.developpement-durable.gouv.fr/IMG/pdf/20241224-not140-loup-plafond-2025.pdf,https://hal.science/hal-05417020v1,.,,,
+2026,,,205,,,,,,,,https://pna-loup.developpement-durable.gouv.fr/IMG/pdf/20251224-not2214-vf-dreal-note_plafond_loup_2026.pdf,,,,,
