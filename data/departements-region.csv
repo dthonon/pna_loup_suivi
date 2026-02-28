@@ -1,13 +1,13 @@
 num_dep;dep_name;region_name
-01;Ain;Auvergne-Rhône-Alpes
-02;Aisne;Hauts-de-France
-03;Allier;Auvergne-Rhône-Alpes
-04;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
-05;Hautes-Alpes;Provence-Alpes-Côte d'Azur
-06;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
-07;Ardèche;Auvergne-Rhône-Alpes
-08;Ardennes;Grand Est
-09;Ariège;Occitanie
+1;Ain;Auvergne-Rhône-Alpes
+2;Aisne;Hauts-de-France
+3;Allier;Auvergne-Rhône-Alpes
+4;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+5;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+7;Ardèche;Auvergne-Rhône-Alpes
+8;Ardennes;Grand Est
+9;Ariège;Occitanie
 10;Aube;Grand Est
 11;Aude;Occitanie
 12;Aveyron;Occitanie
@@ -100,3 +100,4 @@ num_dep;dep_name;region_name
 973;Guyane;Guyane
 974;La Réunion;La Réunion
 976;Mayotte;Mayotte
+999;FRANCE;FRANCE
