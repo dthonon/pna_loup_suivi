@@ -24,7 +24,7 @@ except ImportError:
 
 
 package = "pna_loup_suivi"
-python_versions = ["3.10"]
+python_versions = ["3.11"]
 nox.needs_version = ">= 2021.6.6"
 nox.options.sessions = (
     "pre-commit",
