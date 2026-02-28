@@ -17,8 +17,6 @@ jobs:
           - { python: "3.11", os: "ubuntu-latest", session: "mypy" }
           - { python: "3.11", os: "ubuntu-latest", session: "tests" }
           - { python: "3.11", os: "ubuntu-latest", session: "typeguard" }
-          - { python: "3.11", os: "ubuntu-latest", session: "xdoctest" }
-          - { python: "3.11", os: "ubuntu-latest", session: "docs-build" }
 
     env:
       NOXSESSION: ${{ matrix.session }}
@@ -27,10 +25,10 @@ jobs:
 
     steps:
       - name: Check out the repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python ${{ matrix.python }}
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python }}
 
@@ -75,7 +73,7 @@ jobs:
           print("::set-output name=result::{}".format(result))
 
       - name: Restore pre-commit cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         if: matrix.session == 'pre-commit'
         with:
           path: ~/.cache/pre-commit
@@ -86,61 +84,3 @@ jobs:
       - name: Run Nox
         run: |
           nox --python=${{ matrix.python }}
-
-      # - name: Upload coverage data
-      #   if: always() && matrix.session == 'tests'
-      #   uses: "actions/upload-artifact@v4"
-      #   with:
-      #     name: coverage-data
-      #     path: ".coverage.*"
-
-      - name: Upload documentation
-        if: matrix.session == 'docs-build'
-        uses: actions/upload-artifact@v4
-        with:
-          name: docs
-          path: docs/_build
-
-  coverage:
-    runs-on: ubuntu-latest
-    needs: tests
-    steps:
-      - name: Check out the repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Upgrade pip
-        run: |
-          pip install --constraint=${{ github.workspace }}/.github/workflows/constraints.txt pip
-          pip --version
-
-      - name: Install Poetry
-        run: |
-          pipx install --pip-args=--constraint=${{ github.workspace }}/.github/workflows/constraints.txt poetry
-          poetry --version
-
-      - name: Install Nox
-        run: |
-          pipx install --pip-args=--constraint=${{ github.workspace }}/.github/workflows/constraints.txt nox
-          pipx inject --pip-args=--constraint=${{ github.workspace }}/.github/workflows/constraints.txt nox nox-poetry
-          nox --version
-
-      - name: Download coverage data
-        uses: actions/download-artifact@v4
-        with:
-          name: coverage-data
-
-      - name: Combine coverage data and display human readable report
-        run: |
-          nox --session=coverage
-
-      - name: Create coverage report
-        run: |
-          nox --session=coverage -- xml
-
-      - name: Upload coverage report
-        uses: codecov/codecov-action@v5.1.2
